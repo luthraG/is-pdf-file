@@ -1,0 +1,32 @@
+{
+  "name"          : "is-pdf-file",
+  "version"       : "1.0.0",
+  "description"   : "Checks if the file path is PDF file. It does not read the complete file nor it depends upon file extension",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/is-pdf-file.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : "1.0.5"
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "buffer",
+    "check",
+    "detect",
+    "detect pdf",
+    "file type",
+    "is-pdf-file",
+    "is pdf",
+    "pdf",
+    "pdf file",
+    "uint8array"
+  ]
+}
