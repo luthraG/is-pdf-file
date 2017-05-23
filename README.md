@@ -33,7 +33,9 @@ PDF_FILE.isPDFSync('temp.pdf')
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/is-pdf-file.git
+```bash
+$ git clone https://github.com/luthraG/is-pdf-file.git
+```
 
 ### API
 
